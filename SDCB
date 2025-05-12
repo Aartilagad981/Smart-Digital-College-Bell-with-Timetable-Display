@@ -1,0 +1,4 @@
+README.md
+# Mini Project
+## Smart Digital College Bell with Timetable Diplay
+- Arduino Uno, RTC(Real Time Clock), Relay, Buzzer, Potentiometer, Breadboard, I2c LCD 16x2
